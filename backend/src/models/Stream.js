@@ -1,3 +1,4 @@
+// src/models/Stream.js or src/routes/streams.js
 const mongoose = require('mongoose');
 
 const streamSchema = new mongoose.Schema({
@@ -76,7 +77,8 @@ const streamSchema = new mongoose.Schema({
     default: true
   }
 }, {
-  timestamps: true
+  timestamps: true,
+  _id: false
 });
 
 module.exports = mongoose.model('Stream', streamSchema);

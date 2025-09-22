@@ -1,0 +1,162 @@
+[
+{
+"id": "science",
+"title": "Science Stream",
+"description": "Explore foundational fields in mathematics, physics, chemistry, and biology, paving the way for careers in engineering, medicine, and research.",
+"category": "after-10th",
+"difficulty": "Intermediate",
+"duration": "2 Years",
+"sub_streams": [
+{
+"id": "mpc",
+"title": "MPC (Mathematics, Physics, Chemistry)",
+"description": "The foundational stream for careers in engineering, technology, and pure sciences. It develops strong analytical and problem-solving skills.",
+"roadmap": ["Class 10", "Intermediate (11th-12th) - MPC", "Competitive Exams (JEE, BITSAT)", "Higher Education (B.Tech, B.Sc)", "Career in Engineering/Tech"],
+"subjects": [
+{ "name": "Mathematics", "description": "Advanced calculus, algebra, and geometry." },
+{ "name": "Physics", "description": "Mechanics, thermodynamics, and optics." },
+{ "name": "Chemistry", "description": "Physical, organic, and inorganic chemistry." },
+{ "name": "English", "description": "Language skills and communication." },
+{ "name": "Second Language", "description": "A secondary language subject." }
+],
+"examinations": [
+{ "name": "JEE Main & Advanced", "description": "National-level entrance exams for admission to IITs, NITs, and IIITs.", "eligibility": "12th Pass with PCM", "applicationProcess": "Online registration followed by CBT exam." },
+{ "name": "BITSAT", "description": "Exam for admission to BITS Pilani, Goa, and Hyderabad campuses.", "eligibility": "12th Pass with PCM", "applicationProcess": "Online application on BITS website." }
+],
+"careers": [
+{ "title": "Software Engineer", "description": "Designs, develops, and maintains software applications.", "salary": "₹6 - 15 LPA", "demand": "High" },
+{ "title": "Civil Engineer", "description": "Designs and supervises construction of infrastructure projects.", "salary": "₹4 - 10 LPA", "demand": "Medium" }
+],
+"topColleges": [
+{ "name": "IIT Bombay", "location": "Mumbai", "rank": 1, "type": "Government", "website": "https://www.iitb.ac.in/" },
+{ "name": "NIT Trichy", "location": "Tiruchirappalli", "rank": 8, "type": "Government", "website": "https://www.nitt.edu/" }
+],
+"isActive": true
+},
+{
+"id": "bipc",
+"title": "BiPC (Biology, Physics, Chemistry)",
+"description": "The ideal stream for students aspiring to a career in medicine, healthcare, and life sciences. It focuses on the biological and chemical aspects of science.",
+"roadmap": ["Class 10", "Intermediate (11th-12th) - BiPC", "Competitive Exams (NEET)", "Higher Education (MBBS, BDS)", "Career in Medicine/Healthcare"],
+"subjects": [
+{ "name": "Biology (Botany & Zoology)", "description": "Study of life sciences, including plants and animals." },
+{ "name": "Physics", "description": "Fundamental principles of the physical world." },
+{ "name": "Chemistry", "description": "Study of matter and its properties." },
+{ "name": "English", "description": "Language skills and communication." },
+{ "name": "Second Language", "description": "A secondary language subject." }
+],
+"examinations": [
+{ "name": "NEET", "description": "The primary entrance exam for all medical courses in India.", "eligibility": "12th Pass with BiPC", "applicationProcess": "Online registration followed by offline exam." },
+{ "name": "EAMCET (Medical)", "description": "State-level exam for medical and agricultural courses in Telangana and Andhra Pradesh.", "eligibility": "12th Pass with BiPC", "applicationProcess": "Online registration on state portal." }
+],
+"careers": [
+{ "title": "Doctor (MBBS)", "description": "Diagnoses, treats, and prevents human illnesses.", "salary": "₹7 - 25 LPA", "demand": "High" },
+{ "title": "Pharmacist", "description": "Dispenses medications and provides patient counseling.", "salary": "₹3 - 7 LPA", "demand": "Medium" }
+],
+"topColleges": [
+{ "name": "AIIMS Delhi", "location": "New Delhi", "rank": 1, "type": "Government", "website": "https://www.aiims.edu/" },
+{ "name": "Maulana Azad Medical College", "location": "New Delhi", "rank": 3, "type": "Government", "website": "https://www.mamc.ac.in/" }
+],
+"isActive": true
+}
+]
+},
+{
+"id": "commerce",
+"title": "Commerce Stream",
+"description": "A dynamic stream for students interested in business, finance, accounting, and management, providing a gateway to the corporate world.",
+"category": "after-10th",
+"difficulty": "Intermediate",
+"duration": "2 Years",
+"sub_streams": [
+{
+"id": "mec",
+"title": "MEC (Mathematics, Economics, Commerce)",
+"description": "A versatile stream that combines a strong foundation in mathematics with business and economic principles. It's a popular choice for careers in finance and management.",
+"roadmap": ["Class 10", "Intermediate (11th-12th) - MEC", "Professional Courses (CA, CMA, CS)", "Higher Education (B.Com, BBA)", "Career in Finance/Management"],
+"subjects": [
+{ "name": "Mathematics", "description": "Statistics, calculus, and financial math." },
+{ "name": "Economics", "description": "Micro and macroeconomics, and Indian economic development." },
+{ "name": "Commerce", "description": "Fundamentals of accounting and business studies." },
+{ "name": "English", "description": "Language skills and communication." },
+{ "name": "Second Language", "description": "A secondary language subject." }
+],
+"examinations": [
+{ "name": "CA Foundation", "description": "The first level of the Chartered Accountancy course.", "eligibility": "12th Pass", "applicationProcess": "Online registration with ICAI." },
+{ "name": "CUET", "description": "Central University Entrance Test for admission to various central universities.", "eligibility": "12th Pass", "applicationProcess": "Online registration via NTA." }
+],
+"careers": [
+{ "title": "Chartered Accountant (CA)", "description": "Manages financial accounts, audits, and provides tax advice.", "salary": "₹6 - 20 LPA", "demand": "High" },
+{ "title": "Financial Analyst", "description": "Analyzes financial data to guide business decisions.", "salary": "₹5 - 15 LPA", "demand": "High" }
+],
+"topColleges": [
+{ "name": "Shri Ram College of Commerce (SRCC)", "location": "Delhi", "rank": 1, "type": "Government", "website": "http://www.srcc.edu/" },
+{ "name": "Narsee Monjee College of Commerce", "location": "Mumbai", "rank": 2, "type": "Autonomous", "website": "https://www.nmcollege.in/" }
+],
+"isActive": true
+},
+{
+"id": "cec",
+"title": "CEC (Civics, Economics, Commerce)",
+"description": "This stream is tailored for students interested in law, civil services, and business. It provides a deep understanding of governance, social systems, and commerce.",
+"roadmap": ["Class 10", "Intermediate (11th-12th) - CEC", "Competitive Exams (CLAT, UPSC)", "Higher Education (B.Com, LLB)", "Career in Law/Civil Services"],
+"subjects": [
+{ "name": "Civics", "description": "Political science, governance, and public administration." },
+{ "name": "Economics", "description": "Micro and macroeconomics, and Indian economic development." },
+{ "name": "Commerce", "description": "Fundamentals of accounting and business studies." },
+{ "name": "English", "description": "Language skills and communication." },
+{ "name": "Second Language", "description": "A secondary language subject." }
+],
+"examinations": [
+{ "name": "CLAT", "description": "Common Law Admission Test for admission to National Law Universities (NLUs).", "eligibility": "12th Pass", "applicationProcess": "Online registration and CBT exam." },
+{ "name": "UPSC Civil Services", "description": "UPSC exams for entry into various civil services of India.", "eligibility": "Graduation", "applicationProcess": "Online application and multiple-stage exams." }
+],
+"careers": [
+{ "title": "Lawyer (LLB)", "description": "Advises and represents clients in legal matters.", "salary": "₹5 - 20 LPA", "demand": "Medium" },
+{ "title": "Civil Servant (IAS, IPS)", "description": "Manages public administration and law enforcement.", "salary": "₹8 - 25 LPA", "demand": "High" }
+],
+"topColleges": [
+{ "name": "National Law School of India University (NLSIU)", "location": "Bengaluru", "rank": 1, "type": "Government", "website": "https://www.nls.ac.in/" },
+{ "name": "St. Stephen's College", "location": "Delhi", "rank": 2, "type": "Government", "website": "http://www.ststephens.edu/" }
+],
+"isActive": true
+}
+]
+},
+{
+"id": "humanities",
+"title": "Humanities Stream",
+"description": "An interdisciplinary stream that focuses on the study of human culture, history, and society, fostering critical thinking and communication skills.",
+"category": "after-10th",
+"difficulty": "Intermediate",
+"duration": "2 Years",
+"sub_streams": [
+{
+"id": "hec",
+"title": "HEC (History, Economics, Civics)",
+"description": "A humanities-focused stream that builds a strong foundation for careers in social sciences, law, and liberal arts. It encourages critical thinking and analysis of societal issues.",
+"roadmap": ["Class 10", "Intermediate (11th-12th) - HEC", "Competitive Exams (CLAT, UPSC)", "Higher Education (B.A., LLB)", "Career in Social Sciences/Public Services"],
+"subjects": [
+{ "name": "History", "description": "Ancient, medieval, and modern Indian history." },
+{ "name": "Economics", "description": "Micro and macroeconomics, and Indian economic development." },
+{ "name": "Civics", "description": "Political science, governance, and public administration." },
+{ "name": "English", "description": "Language skills and communication." },
+{ "name": "Second Language", "description": "A secondary language subject." }
+],
+"examinations": [
+{ "name": "CLAT", "description": "Common Law Admission Test for admission to National Law Universities (NLUs).", "eligibility": "12th Pass", "applicationProcess": "Online registration and CBT exam." },
+{ "name": "UPSC Civil Services", "description": "UPSC exams for entry into various civil services of India.", "eligibility": "Graduation", "applicationProcess": "Online application and multiple-stage exams." }
+],
+"careers": [
+{ "title": "Journalist", "description": "Researches, writes, and reports news stories.", "salary": "₹3 - 8 LPA", "demand": "Medium" },
+{ "title": "Civil Servant (IAS, IPS)", "description": "Manages public administration and law enforcement.", "salary": "₹8 - 25 LPA", "demand": "High" }
+],
+"topColleges": [
+{ "name": "Lady Shri Ram College for Women (LSR)", "location": "Delhi", "rank": 1, "type": "Government", "website": "https://lsr.edu.in/" },
+{ "name": "Presidency College", "location": "Chennai", "rank": 2, "type": "Government", "website": "http://www.presidencycollegechennai.ac.in/" }
+],
+"isActive": true
+}
+]
+}
+]
